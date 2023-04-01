@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="girl.png" width="2410" height="2232">
+  <SubTexture name="idle0000_copy_316x353.png" x="0" y="0" width="345" height="296" rotated="true"  frameX="-20" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="left0000_copy_320x346.png" x="345" y="0" width="343" height="305" rotated="true"  frameX="-0" frameY="-0" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="idle0006_copy_337x351.png" x="688" y="0" width="342" height="306" rotated="true"  frameX="-15" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0008_copy_337x351.png" x="1030" y="0" width="342" height="306" rotated="true"  frameX="-11" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="left0002_copy_320x346.png" x="1372" y="0" width="342" height="306" rotated="true"  frameX="-3" frameY="-1" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="left0008_copy_320x346.png" x="1714" y="0" width="344" height="306" rotated="true"  frameX="-14" frameY="-2" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="idle0013_copy_337x351.png" x="2058" y="0" width="351" height="307" rotated="true"  frameX="-12" frameY="-0" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0015_copy_337x351.png" x="0" y="296" width="340" height="307" rotated="true"  frameX="-7" frameY="-5" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="left0004_copy_320x346.png" x="340" y="305" width="342" height="307" rotated="true"  frameX="-7" frameY="-2" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="left0006_copy_320x346.png" x="682" y="306" width="343" height="307" rotated="true"  frameX="-10" frameY="-2" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="right0000_copy_330x344.png" x="1025" y="306" width="344" height="307" rotated="true"  frameX="-23" frameY="-0" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="down0000_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0003_copy_313x350.png" x="1713" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-3" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0005_copy_313x350.png" x="2057" y="307" width="343" height="308" rotated="true"  frameX="-5" frameY="-7" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="idle0022_copy_337x351.png" x="0" y="603" width="339" height="308" rotated="true"  frameX="-15" frameY="-11" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="down0007_copy_313x350.png" x="339" y="612" width="342" height="308" rotated="true"  frameX="-5" frameY="-7" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0009_copy_313x350.png" x="681" y="613" width="343" height="308" rotated="true"  frameX="-5" frameY="-7" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0010_copy_313x350.png" x="1024" y="613" width="344" height="308" rotated="true"  frameX="-0" frameY="-3" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0014_copy_313x350.png" x="1368" y="614" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="idle0002_copy_337x351.png" x="1712" y="614" width="344" height="308" rotated="true"  frameX="-20" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0010_copy_337x351.png" x="2056" y="615" width="345" height="308" rotated="true"  frameX="-15" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="up0012_copy_316x353.png" x="0" y="911" width="339" height="316" rotated="true"  frameX="-0" frameY="-7" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="idle0023_copy_337x351.png" x="339" y="920" width="340" height="308" rotated="true"  frameX="-15" frameY="-10" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0016_copy_337x351.png" x="679" y="921" width="344" height="308" rotated="true"  frameX="-3" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0024_copy_337x351.png" x="1023" y="921" width="343" height="308" rotated="true"  frameX="-29" frameY="-7" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="up0014_copy_316x353.png" x="1366" y="922" width="345" height="308" rotated="true"  frameX="-4" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="idle0004_copy_337x351.png" x="1711" y="922" width="343" height="309" rotated="true"  frameX="-19" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0018_copy_337x351.png" x="2054" y="923" width="344" height="309" rotated="true"  frameX="-0" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0020_copy_337x351.png" x="0" y="1228" width="340" height="309" rotated="true"  frameX="-5" frameY="-9" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="right0002_copy_330x344.png" x="340" y="1229" width="344" height="310" rotated="true"  frameX="-16" frameY="-0" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="up0000_copy_316x353.png" x="684" y="1229" width="345" height="316" rotated="true"  frameX="-0" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0002_copy_316x353.png" x="1029" y="1230" width="342" height="316" rotated="true"  frameX="-0" frameY="-7" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0011_copy_316x353.png" x="1371" y="1230" width="340" height="316" rotated="true"  frameX="-0" frameY="-6" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0005_copy_316x353.png" x="1711" y="1232" width="346" height="316" rotated="true"  frameX="-0" frameY="-6" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0007_copy_316x353.png" x="2057" y="1232" width="353" height="316" rotated="true"  frameX="-0" frameY="-0" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0010_copy_316x353.png" x="0" y="1539" width="353" height="316" rotated="true"  frameX="-0" frameY="-0" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="right0008_copy_330x344.png" x="353" y="1539"  width="325" height="322" frameX="-0" frameY="-22" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="right0004_copy_330x344.png" x="678" y="1545" width="338" height="323" rotated="true"  frameX="-6" frameY="-6" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="right0006_copy_330x344.png" x="1016" y="1546" width="338" height="323" rotated="true"  frameX="-6" frameY="-6" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="scream0000_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0002_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0004_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="down0001_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0002_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0011_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0012_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0013_copy_313x350.png" x="1369" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0004_copy_313x350.png" x="1713" y="306" width="344" height="308" rotated="true"  frameX="-5" frameY="-3" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0006_copy_313x350.png" x="2057" y="307" width="343" height="308" rotated="true"  frameX="-5" frameY="-7" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0008_copy_313x350.png" x="339" y="612" width="342" height="308" rotated="true"  frameX="-5" frameY="-7" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0015_copy_313x350.png" x="1368" y="614" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0016_copy_313x350.png" x="1368" y="614" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0017_copy_313x350.png" x="1368" y="614" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="down0018_copy_313x350.png" x="1368" y="614" width="344" height="308" rotated="true"  frameX="-5" frameY="-0" frameWidth="313" frameHeight="350"/>
+  <SubTexture name="idle0001_copy_316x353.png" x="0" y="0" width="345" height="296" rotated="true"  frameX="-20" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="idle0003_copy_337x351.png" x="1712" y="614" width="344" height="308" rotated="true"  frameX="-20" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0005_copy_337x351.png" x="1711" y="922" width="343" height="309" rotated="true"  frameX="-19" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0007_copy_337x351.png" x="688" y="0" width="342" height="306" rotated="true"  frameX="-15" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0009_copy_337x351.png" x="1030" y="0" width="342" height="306" rotated="true"  frameX="-11" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0011_copy_337x351.png" x="2056" y="615" width="345" height="308" rotated="true"  frameX="-15" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0012_copy_337x351.png" x="2056" y="615" width="345" height="308" rotated="true"  frameX="-15" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0014_copy_337x351.png" x="2058" y="0" width="351" height="307" rotated="true"  frameX="-12" frameY="-0" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0017_copy_337x351.png" x="679" y="921" width="344" height="308" rotated="true"  frameX="-3" frameY="-1" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0019_copy_337x351.png" x="2054" y="923" width="344" height="309" rotated="true"  frameX="-0" frameY="-3" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0021_copy_337x351.png" x="0" y="1228" width="340" height="309" rotated="true"  frameX="-5" frameY="-9" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0025_copy_337x351.png" x="1023" y="921" width="343" height="308" rotated="true"  frameX="-29" frameY="-7" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="idle0026_copy_337x351.png" x="1023" y="921" width="343" height="308" rotated="true"  frameX="-29" frameY="-7" frameWidth="337" frameHeight="351"/>
+  <SubTexture name="left0001_copy_320x346.png" x="345" y="0" width="343" height="305" rotated="true"  frameX="-0" frameY="-0" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="left0003_copy_320x346.png" x="1372" y="0" width="342" height="306" rotated="true"  frameX="-3" frameY="-1" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="left0005_copy_320x346.png" x="340" y="305" width="342" height="307" rotated="true"  frameX="-7" frameY="-2" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="left0007_copy_320x346.png" x="682" y="306" width="343" height="307" rotated="true"  frameX="-10" frameY="-2" frameWidth="320" frameHeight="346"/>
+  <SubTexture name="right0001_copy_330x344.png" x="1025" y="306" width="344" height="307" rotated="true"  frameX="-23" frameY="-0" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="right0003_copy_330x344.png" x="340" y="1229" width="344" height="310" rotated="true"  frameX="-16" frameY="-0" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="right0005_copy_330x344.png" x="678" y="1545" width="338" height="323" rotated="true"  frameX="-6" frameY="-6" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="right0007_copy_330x344.png" x="1016" y="1546" width="338" height="323" rotated="true"  frameX="-6" frameY="-6" frameWidth="330" frameHeight="344"/>
+  <SubTexture name="scream0001_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0005_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0006_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0007_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0011_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0012_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0013_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0014_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0015_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0019_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0020_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0021_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0022_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0023_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0027_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0028_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0029_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0030_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0031_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0035_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0036_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0037_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0038_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0039_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0043_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0044_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0045_copy_462x371.png" x="1354" y="1548"  width="462" height="370" frameX="-0" frameY="-1" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0003_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0008_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0009_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0016_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0017_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0024_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0025_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0032_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0033_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0040_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0041_copy_462x371.png" x="1816" y="1548"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0010_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0018_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0026_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0034_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="scream0042_copy_462x371.png" x="0" y="1861"  width="460" height="371" frameX="-0" frameY="-0" frameWidth="462" frameHeight="371"/>
+  <SubTexture name="up0001_copy_316x353.png" x="684" y="1229" width="345" height="316" rotated="true"  frameX="-0" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0013_copy_316x353.png" x="684" y="1229" width="345" height="316" rotated="true"  frameX="-0" frameY="-1" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0003_copy_316x353.png" x="1029" y="1230" width="342" height="316" rotated="true"  frameX="-0" frameY="-7" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0004_copy_316x353.png" x="1029" y="1230" width="342" height="316" rotated="true"  frameX="-0" frameY="-7" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0006_copy_316x353.png" x="1711" y="1232" width="346" height="316" rotated="true"  frameX="-0" frameY="-6" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0008_copy_316x353.png" x="2057" y="1232" width="353" height="316" rotated="true"  frameX="-0" frameY="-0" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0009_copy_316x353.png" x="2057" y="1232" width="353" height="316" rotated="true"  frameX="-0" frameY="-0" frameWidth="316" frameHeight="353"/>
+  <SubTexture name="up0015_copy_316x353.png" x="1366" y="922" width="345" height="308" rotated="true"  frameX="-4" frameY="-1" frameWidth="316" frameHeight="353"/>
+</TextureAtlas>
